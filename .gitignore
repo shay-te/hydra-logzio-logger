@@ -1,0 +1,19 @@
+# IDEA
+.idea/
+**/.DS_Store
+**/*.db
+**/*.db-journal
+
+# PYTHON
+/venv
+**/*.pyc
+**/*.pyo
+**/__pycache__/*
+__pycache__/
+
+
+# BUILD
+hydra_logzio_logger.egg-info/
+build/
+dist/
+.eggs
