@@ -18,3 +18,21 @@ Before using set to following environment variables
 `logzio_format`, `logzio_token`, `logzio_drain_timeout`, `logzio_url`
 
 For more info about these variables read [here](https://app-eu.logz.io/#/dashboard/data-sources/Python).
+
+## Example 
+
+Create an new hydra config file 
+
+```yaml
+defaults:
+  - hydra/job_logging: logzio_logger
+  - hydra/hydra_logging: logzio_logger
+
+my_app:
+    some_conf: yada yada
+...
+```
+
+See how to load the config file file [here](https://hydra.cc/docs/intro) 
+
+Tahnk you 
