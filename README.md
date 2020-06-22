@@ -17,4 +17,4 @@ Before using set to following environment variables
 
 `logzio_format`, `logzio_token`, `logzio_drain_timeout`, `logzio_url`
 
-For more infor about these variables read [here](https://app-eu.logz.io/#/dashboard/data-sources/Python).
+For more info about these variables read [here](https://app-eu.logz.io/#/dashboard/data-sources/Python).
