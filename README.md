@@ -33,6 +33,7 @@ my_app:
 ...
 ```
 
-See how to load the config file file [here](https://hydra.cc/docs/intro) 
+See how to load the config file [here](https://hydra.cc/docs/intro) 
 
-Tahnk you 
+Thank you
+ 
